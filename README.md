@@ -5,10 +5,10 @@
 
 [![logo](https://telegra.ph/file/59cc37f7183551be1a26e.jpg)
 
+## 🚀 Deployment
+
 # How To Host  🔥
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SURAJOP7/AXEL&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME)
-
-
 
 
 
