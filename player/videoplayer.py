@@ -43,4 +43,4 @@ async def stopvideo(client, m: Message):
         await VIDEO_CALL[chat_id].stop()
         await m.reply("**⏹️ Stopped Streaming!**")
     except Exception as e:
-        await m.reply(f"**🚫 Error** - `{e}`")
+        await m.reply(f"*Stream ended ✅!** - `{e}`")
