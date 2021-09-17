@@ -7,7 +7,7 @@
 
 ## 🚀 Deployment
 
-# How To Host  🔥
+# RAILWAY DEPLOY ❤🔥
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SURAJOP7/AXEL&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME)
 
 
